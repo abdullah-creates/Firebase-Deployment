@@ -27,7 +27,7 @@ const Todo = () => {
   }
   return (
     <>
-      <h2>Todo App</h2>
+      <h2>Todo Application</h2>
       <input
         type="text"
         name="input"
