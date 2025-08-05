@@ -27,7 +27,7 @@ const Todo = () => {
   }
   return (
     <>
-      <h2>Todo Application</h2>
+      <h2>Todo Application with Firebase</h2>
       <input
         type="text"
         name="input"
